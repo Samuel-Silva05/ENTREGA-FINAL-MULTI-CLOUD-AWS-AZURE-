@@ -14,12 +14,19 @@ Este projeto provisiona uma arquitetura na AWS com:
 
 ---
 
-PDF_CUSTO-ATUAL_ESTIMATIVA1
-
-## 💰 Estimativa de Custos
+## 💰 Estimativa de Custos (Versão 1)
 
 - 💸 Custo mensal: **$144,54**
 - 📅 12 meses: **$1.734,48**
 
 📄 Documento completo:
 👉 [Ver PDF](https://github.com/Samuel-Silva05/ENTREGA-FINAL-MULTI-CLOUD-AWS-AZURE-/blob/main/My%20Estimate%20-%20Calculadora%20de%20Pre%C3%A7os%20da%20AWS.pdf).
+
+## 💰 Estimativa de Custos AWS (Versão 2)
+
+- 💸 Custo mensal: **$434,90**
+- 📅 Custo anual: **$5.218,80**
+- 🚀 Região: us-east-1
+
+📄 Documento completo:
+👉 [Ver PDF]()
