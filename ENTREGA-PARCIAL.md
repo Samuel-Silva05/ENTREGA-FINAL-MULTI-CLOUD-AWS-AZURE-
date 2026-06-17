@@ -29,4 +29,4 @@ Este projeto provisiona uma arquitetura na AWS com:
 - 🚀 Região: us-east-1
 
 📄 Documento completo:
-👉 [Ver PDF]()
+👉 [Ver PDF](https://github.com/Samuel-Silva05/ENTREGA-FINAL-MULTI-CLOUD-AWS-AZURE-/blob/main/My%20Estimate.pdf)
