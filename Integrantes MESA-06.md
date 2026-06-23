@@ -7,4 +7,3 @@
 - Guilherme Zucco
 - Nicolas Soares
 
-## Empresa CloudPain Sources
