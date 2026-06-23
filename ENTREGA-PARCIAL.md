@@ -1,5 +1,4 @@
-<img width="1024" height="559" alt="WhatsApp Image 2026-06-17 at 08 19 38" src="https://github.com/user-attachments/assets/cdc50b7e-a048-4fb1-97e0-77cf2d76f0af" />
-
+<img width="1536" height="1024" alt="WhatsApp Image 2026-06-23 at 08 12 18 (1)" src="https://github.com/user-attachments/assets/968e4ae8-5887-469a-83f3-be4cae603ef2" />
 
 
 # 🚀 AWS - Arquitetura Inicial Honey Badger
