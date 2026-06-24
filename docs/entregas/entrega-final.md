@@ -145,6 +145,30 @@ Evita credenciais hardcoded no código/AMI. A EC2 assume o `LabInstanceProfile`,
 
 ---
 
+# 💰 Estimativa de Custos AWS - Infra Completa (EC2 + S3 + ALB + Monitoring)
+
+- 🌿 Custo mensal: **$1.526,38 USD**
+- 📅 Custo anual: **$18.316,56 USD**
+- 🚀 Região: us-east-1 (N. Virginia)
+
+---
+
+📄 Documento completo:  
+👉 [Ver PDF](https://github.com/Samuel-Silva05/Entrega-MultiCloud/blob/main/estimativas/My%20Estimate%20-%20Infra%20Completa.pdf)
+
+---
+
+| Serviço | Descrição | Região | Custo Inicial | Custo Mensal |
+|---|---|---|---|---|
+| Amazon S3 | Armazenamento 20 GB, requisições PUT/GET/SELECT, transferência 20 GB/mês | US East (N. Virginia) | $0,00 USD | $2,30 USD |
+| Amazon EC2 | 1 instância t3.medium, Linux, On-Demand, monitoramento desabilitado | US East (N. Virginia) | $0,00 USD | $30,37 USD |
+| Amazon VPC | NAT Gateway regional (2 zonas), Route Server (1 endpoint), NAT (1) | US East (N. Virginia) | $0,00 USD | $647,63 USD |
+| Elastic Load Balancing | 1 Application Load Balancer | US East (N. Virginia) | $0,00 USD | $425,23 USD |
+| Amazon RDS for PostgreSQL | 100 GB SSD (gp2), db.m1.large, Multi-AZ, On-Demand | US East (N. Virginia) | $0,00 USD | $420,85 USD |
+| **Total** | | | **$0,00 USD** | **$1.526,38 USD** |
+
+> 💡 Custo total de 12 meses: **$18.316,56 USD** (inclui custo inicial)
+
 ## 6. Pontos de evolução (produção)
 
 | Tema | Laboratório (atual) | Produção recomendada |
