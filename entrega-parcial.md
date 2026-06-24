@@ -1,7 +1,6 @@
 <img width="1024" height="559" alt="WhatsApp Image 2026-06-17 at 08 19 38 (1)" src="https://github.com/user-attachments/assets/1c82c321-4c91-405c-8d86-a1815ec4f5dc" />
 
 
-
 # 🚀 AWS - Arquitetura Inicial Honey Badger
 
 ## 📌 Descrição da Arquitetura
